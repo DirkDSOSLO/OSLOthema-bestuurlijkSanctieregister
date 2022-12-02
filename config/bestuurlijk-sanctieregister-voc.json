@@ -1,6 +1,6 @@
 [
 {
-  "name": "bestuurlijk-sanctieregister-voc",
+  "name": "bestuurlijk-sanctieregister",
   "type": "voc",
   "eap": "BestuurlijkSanctieregister-AP.eap",
   "diagram": "BestuurlijkSanctieregister-AP",
